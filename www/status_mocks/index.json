@@ -1,0 +1,6 @@
+{
+  "name": "appname",
+  "version": "123",
+  "status": "ok",
+  "modules": ["users", "shares"]
+}
