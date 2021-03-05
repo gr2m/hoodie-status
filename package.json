@@ -2,5 +2,6 @@
   "author": "hood.ie",
   "name": "hoodie-status",
   "version": "0.0.1",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": "github:gr2m/hoodie-status"
 }
